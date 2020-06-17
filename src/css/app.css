@@ -1,4 +1,5 @@
 /*! bulma.io v0.9.0 | MIT License | github.com/jgthms/bulma */
+@import url("https://fonts.googleapis.com/css?family=Roboto&family=Suez+One");
 @keyframes spinAround {
   from {
     transform: rotate(0deg); }
