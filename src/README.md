@@ -1,2 +1,0 @@
-# libera.systems
-Wordpress theme
